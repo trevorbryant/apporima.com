@@ -1,0 +1,27 @@
+# Site Build Settings
+github: [metadata]
+
+# Google Analytics
+google_analytics: UA-138510892-1
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+#markdown:            kramdown
+#highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Automate the pain"
+description:	       "apporima"
+author:              "trevor"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
