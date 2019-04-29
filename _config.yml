@@ -4,6 +4,9 @@ github: [metadata]
 # Google Analytics
 google_analytics: UA-138510892-1
 
+# Custom image
+title_image: "{{site.url}}/assets/img/devopsdclogo.png"
+
 # jekyll-paginate configuration
 paginate:            5
 
