@@ -4,6 +4,7 @@ title: "Wrap Up: BSides Charm 2019 Edition"
 author: "trevor"
 categories: blog
 tags: [blog]
+image: "2019BSidesCHARMLOGO_2-1.png"
 ---
 
 This weekend marks another BSides complete and the post-con recharging takes place. It's always a huge effort leading up to these types of conferences and isn't possible without its organizing committee. I'll recap my weekend as both an attendee and volunteer. We got up at 4:30 Saturday morning and made it to the conference hotel by 6:30 to start the day. We left the party around 11:30 to get to our room and oh MY GODS DID I SLEEP SOOOO WELL.
