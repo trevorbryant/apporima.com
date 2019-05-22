@@ -6,6 +6,20 @@ categories: blog
 tags: [blog]
 ---
 
+ <!--
+            ____    _    _   ______  ______
+           |  _ \  | |  | | |___  / |___  /
+           | |_) | | |  | |    / /     / / 
+           |  _ <  | |  | |   / /     / /  
+           | |_) | | |__| |  / /__   / /__ 
+           |____/   \____/  /_____| /_____|
+ __          __   ____    _____    _____     _____ 
+ \ \        / /  / __ \  |  __ \  |  __ \   / ____|
+  \ \  /\  / /  | |  | | | |__) | | |  | | | (___  
+   \ \/  \/ /   | |  | | |  _  /  | |  | |  \___ \ 
+    \  /\  /    | |__| | | | \ \  | |__| |  ____) |
+     \/  \/      \____/  |_|  \_\ |_____/  |_____/ -->
+                                                   
 Earlier this week I shared the history of the engineering practice of Configuration Management (CM) at our local [DevOps DC](https://www.meetup.com/DevOpsDC/events/jkpfmlyzhbsb/) Meetup. I was pleasantly surprised to find that most of the attendees didn't seem to be aware of CM and what it has to do with their personal or professional lives.
 
 In my slides located [here](/assets/slides/devops_history_config_mgmt.pdf), I had began my talk and asked what CM meant to everyone. I was met with explanations such as a tool solution, a process within DevOps, or activities that would typically be under Software Configuration Management (SCM). I had explained that the phrase is defined in the Military Handbook: Configuration Management Guidance (or MIL-HDBK-61 for short). In short, CM is defined as:
