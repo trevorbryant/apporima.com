@@ -14,9 +14,9 @@ In my slides located [here](/assets/slides/devops_history_config_mgmt.pdf), I ha
 
 I was surprised to find that this isn't commonly known. When I first began working professionally, I was given a book about Carnegie Mellon's _Capability Maturity Model Integration_ (CMMI) which was my introduction into the fast-paced world of Systems Development Lifecycle (SDLC). As it turned out, the Department of Defense (DOD) contracted research institutions back in the late '80s, and by the end of the 90s the first Military Handbook dedicated to CM is drafted in 1997. However, the lost art of CM is mentioned [even earlier](https://apps.dtic.mil/dtic/tr/fulltext/u2/a047308.pdf) when a program document is prepared for the United States Air Force (USAF) as early as 1977. This teaches us a few things:
 
-  1. All the cool things started in Hanscom Air Force Base
+  1. All the cool things started at Hanscom Air Force Base
   2. The USAF is pretty damn smart and really cool
-  3. All the cool things died in Hanscom Air Force Base 
+  3. All the cool things died at Hanscom Air Force Base 
 
 And, all of this makes a whole lot of sense. Post World War II (WWII), the United States Military needed ways to build repeatable weapons systems be it naval warships, fighter jets, or reconnaissance aircrafts. These are all life and limb systems and having superb, risk-managed for engineering, auditing, and verification was the way forward. I started to really nerd out about this and learned about Clarence "Kelly" Johnson, who ran Lockheed's Skunk Works program was a lot of this was fruitioned.
 
