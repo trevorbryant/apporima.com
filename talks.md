@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks
+title: Speaky McSpeakface
 permalinks: /talks/
 ---
 
