@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaky McSpeakface
+title: Speaker Slides
 permalinks: /talks/
 ---
 
