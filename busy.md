@@ -15,9 +15,11 @@ Enjoy the list.
   * [BSidesNOVA*](http://www.bsidesnova.org/)
 
 ## GovCons
+  * [Fed/Cyber Scoop](https://www.fedscoop.com/attend/)
   * [Red Hat Defense in Depth](https://www.redhat.com/en/events/defense-in-depth-2018)
   * [DC Cyber Week](https://www.cyberscoop.com/events/dc-cyberweek/2019/)
   * [Sonatype Leadership Forums](https://www.sonatype.com/upcoming-events)
+  * [Splunk GovSummit](https://www.splunk.com/en_us/about-us/events/govsummit.html)
 
 ## Monthly Meetups
   * [DevOpsDC*](https://www.meetup.com/DevOpsDC/)
