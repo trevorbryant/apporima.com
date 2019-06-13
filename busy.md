@@ -30,6 +30,8 @@ Enjoy the list.
   * [Third Thursday](https://groups.google.com/forum/#!forum/third-thursday-dc)
 
 ## Federal Government Participation
+  * [Data Center Optimization Initiative (DCOI)](https://datacenters.cio.gov/)
+  * [Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/)
   * [NTIA's Multistakeholder Meetings](https://www.ntia.doc.gov/SoftwareTransparency)
   * [NIST's Secure Supply Chain Assurance](https://csrc.nist.gov/Projects/cyber-supply-chain-risk-management/SSCA)
 
