@@ -39,7 +39,7 @@ The Serial Entrepreneur.
 
 What makes this type of entrepreneur unique is that they have _many_ ideas and _many_ companies founded to show for it. They are the modern day consultants and board members of entities. And they're now being offered roles of high-level civil servants or placed on the [Senior Executive Schedule (SES)](https://en.wikipedia.org/wiki/Executive_Schedule), such as special advisor or CXO. Because of this, it's becoming difficult to avoid being short-sighted and overlooking individuals that are _being innovative_ versus _promoting innovation_. They're not necessarily rookies, but they're also not heroes.
 
-## Cereally?
+## Cereally
 The Government wants to hire these types of consultants largely due to what we have been doing hasn't been working. However, without the understanding of how the Government works and the bureaucracy required, I fear that these new types of external consultants, becoming employees with influence, will leave the Government in an even more damaged state.
 
 I've observed that this type of entrepreneur will bring ideas that are cutting or bleeding edge while utilizing their charm to persuade to the senior leadership that these new technologies and processes are possible to implement. Having the ear of leadership, they are able to execute initiatives and projects quickly leaving out architects who understand the environment and its demands. They are able to push the implementation of software solutions that have no certification and authorization for use leaving others to accept the risks. If they're new to the Government then it's unlikely they'll have knowledge of the requirements under the [E-Government Act](https://en.wikipedia.org/wiki/E-Government_Act_of_2002). 
