@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaker Slides
+title: Speaking Engagements
 permalinks: /talks/
 ---
 
