@@ -26,8 +26,6 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
 
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138510892-1"></script>
 	<script>
@@ -45,13 +43,11 @@
   <meta name="twitter:site"    content="@{{ site.twitter_username }}">
   <meta name="twitter:creator" content="@{{ page.author }}">
   <meta name="twitter:title"   content="{{ page.title }}">
-
   {% if page.summary %}
   <meta name="twitter:description" content="{{ page.summary }}">
   {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
-
   {% if page.image %}
   <meta name="twitter:card"  content="summary_large_image">
   <meta name="twitter:image" content="https://img.icons8.com/material/420/settings-3.png">
