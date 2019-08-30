@@ -40,7 +40,7 @@ The goal is to work hard with design the first year, and implement the second ye
 
 ### Open Source
 
-If the solution being reviewed is part of the Free and Open Source Software (FOSS) community then the placement of development teams doesn't factor as much as a concern. In FOSS, most teams are dispersed and that's how they succeed. Instead, looking for a project that's actively maintained and has support is what will be important here. The selected solution still needs to meet regulatory compliance.
+If the solution being reviewed is part of the Free and Open Source Software (FOSS) community then the placement of development teams doesn't factor as much as a concern. In FOSS, most teams are dispersed and that's how they succeed. Instead, looking for a project that's actively maintained and has support is what will be important here. The selected solution still needs to meet regulatory compliance, and if the supporting vendor chooses to keep parts of the software restricted then that can be the show stopper. We once had designed a compliance monitoring solution as part of our automated provisioning stack. The selected vendor ran CentOS under the hood, and because that wasn't NIAP approved, we needed to access and harden to produce a risk acceptance memorandum to the Authorizing Authority (AO). The vendor chose not to work with us and that ended our engagement with them. 
 
 ## 4) Quality Assurance
 
