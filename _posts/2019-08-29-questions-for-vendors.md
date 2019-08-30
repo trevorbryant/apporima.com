@@ -30,11 +30,17 @@ There is nothing wrong with asking the vendor to provide the certifications to y
 
 ## 3) Development Teams
 
+### Closed Source
+
 Ask the vendor if the development team(s) are internal or external. The answer for this question may tell you more about the company wanting to sell you their products. The company may have been acquired one or more times and has different external organizations, or it's just beginning and can't afford to have an internal development team. The company may not even have the solution yet and are attempting to secure a contract to garner the funds to begin creating the product. It's become one of the most popular strategies for doing business.
 
 The answer that you want is internal. An external development team can show where the state of the company is in its growth and if it was recently acquired. Knowing this is important because this often leads to challenges with regular and emergency releases being slow and infrequent. Not having mature enough SDLC and ITSM processes in product development doesn't enable growth. The major updates, bug fixes, or general support are something left to be desired. We found this the hard way and discovered the vendor was unknowingly shipping different and faulty product releases across their customer base.
 
 The goal is to work hard with design the first year, and implement the second year. Even better if that can be done in a shorter time frame. Otherwise, if it's longer then it may have been by agreeing to a contract disadvantaged to you, or not having the resources to _actually_ implement. This often leads to a solution that sits shelved and unused.
+
+### Open Source
+
+If the solution being reviewed is part of the Free and Open Source Software (FOSS) community then the placement of development teams doesn't factor as much as a concern. In FOSS, most teams are dispersed and that's how they succeed. Instead, looking for a project that's actively maintained and has support is what will be important here. The selected solution still needs to meet regulatory compliance.
 
 ## 4) Quality Assurance
 
