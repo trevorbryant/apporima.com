@@ -4,6 +4,10 @@ title: Speaking Engagements
 permalinks: /talks/
 ---
 
+# 2020
+[01-21-2020 The Role of Compliance in the Federal Gov. - How Compliance Works - Trevor Bryant - SCW #14](https://www.youtube.com/watch?v=Wz43wZFoFAo) Part One<br />
+[01-21-2020 The Role of Compliance in the Federal Gov. - How Security Works - Trevor Bryant - SCW #14](https://www.youtube.com/watch?v=qSz3Ek8KxFI) Part Two<br />
+
 # 2019
 
 [05-14-2019 DevOps - A History in Configuration Management](assets/slides/devops_history_config_mgmt.pdf)<br />
