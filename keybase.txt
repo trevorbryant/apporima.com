@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/trevorbryant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://apporima.com
+  * I am trevorbryant (https://keybase.io/trevorbryant) on keybase.
+  * I have a public key ASBJdB6N3UdsLW8J-xVluT7AkRJzaWJpur1oMvF6ImZAlgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204b50c0612ed06c03a465eb65f4f673624934633240935b29a96bb7e3c545d7aa0a",
+      "host": "keybase.io",
+      "kid": "012049741e8ddd476c2d6f09fb1565b93ec0911273696269babd6832f17a226640960a",
+      "uid": "43d4c9c685255981888cf270f618c519",
+      "username": "trevorbryant"
+    },
+    "merkle_root": {
+      "ctime": 1580493501,
+      "hash": "8ad324a9d7ab4883fed66258153b95b90fd248d1537cb8ec3083602200b8bc296658c0ab387c56e82483de5715624a29365bfc01534a870a36d3a6f0b96af93b",
+      "hash_meta": "9d2162a9e770a66db3a64688a26e86960adc1a7ef2e81aa1bd1b21f040a52b66",
+      "seqno": 14437402
+    },
+    "service": {
+      "entropy": "XnNKrQecyxu0AM+H9XzfbQnd",
+      "hostname": "apporima.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1580493512,
+  "expire_in": 504576000,
+  "prev": "ddec860cc2f55ecabcb076e51871693a2c7f3dee72ddc4eb703836a3a709b692",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSXQejd1HbC1vCfsVZbk+wJESc2liabq9aDLxeiJmQJYKp3BheWxvYWTESpcCLsQg3eyGDML1Xsq8sHblGHFpOix/Pe5y3cTrcDg2o6cJtpLEIBMZxF+6yr5Mf9S2WNys96XFgJRomOt/ntG0SW8zsY71AgHCo3NpZ8RATlqSk2aYvDvIjpyN3IaK/cszKM+2v1xplgHgAJwdNI0yRKBjNFjO5iEQE9MXwv8PSHrDVFKV8lGQDfAfi/URD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL+PswA6WJpXXkz5Hr6POm7HzSAziA+HX7ZbM3Vs6YM/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trevorbryant
+
+==================================================================
