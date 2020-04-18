@@ -1,3 +1,0 @@
-======
-JCTF{the_wayback_machine}
-=====
