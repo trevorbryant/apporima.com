@@ -7,7 +7,6 @@ social:
 - {icon: 'github', link: 'https://github.com/trevorbryant'}
 - {icon: 'calendar', link: '/busy'}
 - {icon: 'file', link: '/talks'}
-- {icon: 'rss-square', link: 'feed.xml'}
 
 # Customize site text
 pagination:
