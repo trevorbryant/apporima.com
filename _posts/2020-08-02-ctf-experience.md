@@ -54,10 +54,10 @@ While I do categorize the users, and we do talk about specific users in our team
 Overall, it has been a great being a host than a participant. Having experienced both sides does provide greater insight and appreciation. I have began to see the same players coming back to play our CTF while also meeting new players. There is a hugely talented team that I was invited to work with, and this could not have been as successful from start-to-finish without them.
 
 Appreciate you, team.
- * [John Hammond](https://twitter.com/@_johnhammond)
+ * [John Hammond](https://twitter.com/_johnhammond)
  * [Kaitlyn DeValk](https://twitter.com/kaitlyn_devalk)
- * [Caleb Stewart](https://twitter.com/@calebjstewart)
- * [Adam Langley](https://twitter.com/@adamtlangley)
- * [congon4t0r](https://twitter.com/@Congon4tor)
+ * [Caleb Stewart](https://twitter.com/calebjstewart)
+ * [Adam Langley](https://twitter.com/adamtlangley)
+ * [congon4t0r](https://twitter.com/Congon4tor)
  * [Nightwolf](https://twitter.com/wolf57391)
  * [Matt](ynotwitter)
