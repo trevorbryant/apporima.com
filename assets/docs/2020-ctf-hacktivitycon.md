@@ -36,7 +36,7 @@ Unsubscribe uses the technique of discreetly hiding short message in spam. Using
 ![flag_unsubscribe.png](/assets/img/flag_unsubscribe.png "Unsubscribe")
 
 ## Substitute Face
-Substitute Face uses the emoji cypher followed by a substitution to hide the flag. There are two ways to solve this challenge. The easier way is to decode the emojis using the [Emoji Cypher](https://emoji-cypher.netlify.app/) solution, or by converting the emojis to unicode to extract the hex strings (last two characters) and using the subtitution key `ctlbxysgjpqiwhueaovdmfknzr` to retreieve the flag.
+Substitute Face uses the emoji cypher followed by a substitution to hide the flag. There are two ways to solve this challenge. The easier way is to decode the emojis using the [Emoji Cypher](https://emoji-cypher.netlify.app/) solution, or by converting the emojis to unicode to extract the hex strings (last two characters), and using the subtitution key `ctlbxysgjpqiwhueaovdmfknzr` to retrieve the flag.
 
 ```code
 1. 👳👯👸👣👤🐡🐠👺👵👭🐠👢👪👢🐠👪👤🐡🐠👹👩👣👳👻👷👵👲👪👩👩👣👟👬👵👢👸👷👵👰👪👽
