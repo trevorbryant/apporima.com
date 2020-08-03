@@ -4,4 +4,4 @@ title: Writeups
 permalinks: /writeups/
 ---
 
-[test](assets/docs/test)<br />
+[Writeup: H@cktivityCon CTF](assets/docs/2020-ctf-hacktivity)<br />
