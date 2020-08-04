@@ -60,4 +60,4 @@ Appreciate you, team.
  * [Adam Langley](https://twitter.com/adamtlangley)
  * [congon4t0r](https://twitter.com/Congon4tor)
  * [Nightwolf](https://twitter.com/wolf57391)
- * [Matt](ynotwitter)
+ * [Matt E](https://www.linkedin.com/in/matt-ehrnschwender-3115b61b1)
