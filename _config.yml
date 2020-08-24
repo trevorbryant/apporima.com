@@ -8,7 +8,7 @@ google_analytics: UA-138510892-1
 title_image: "{{site.url}}/assets/img/devopsdclogo.png"
 
 # jekyll-paginate configuration
-paginate:            6
+paginate:            10
 
 # Build settings
 #markdown:            kramdown
