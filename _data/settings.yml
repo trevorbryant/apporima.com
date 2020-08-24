@@ -4,6 +4,7 @@ google-ID: 'UA-138510892-1'
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/apporima'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/bryanttn/'}
 - {icon: 'github', link: 'https://github.com/trevorbryant'}
 - {icon: 'calendar', link: '/busy'}
 - {icon: 'file', link: '/talks'}
