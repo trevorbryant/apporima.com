@@ -10,8 +10,8 @@ permalinks: /talks/
 
 # 2019
 
-[05-14-2019 DevOps - A History in Configuration Management](assets/slides/devops_history_config_mgmt.pdf)<br />
-[10-01-2019 api_security](assets/slides/api_security.pdf)<br />
+[05-14-2019 DevOps - A History in Configuration Management](/slides/devops_history_config_mgmt.pdf)<br />
+[10-01-2019 api_security](/slides/api_security.pdf)<br />
 
 # 2018
 
