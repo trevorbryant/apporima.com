@@ -11,6 +11,7 @@ permalinks: /talks/
 # 2019
 
 [05-14-2019 DevOps - A History in Configuration Management](/slides/devops_history_config_mgmt.pdf)<br />
+[08-01-2019 FedRAMP PMO - Crawl, Walk, Run](/slides/fedramp_pmo.pdf)<br />
 [10-01-2019 api_security](/slides/api_security.pdf)<br />
 
 # 2018
