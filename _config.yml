@@ -14,7 +14,7 @@ paginate:            10
 #markdown:            kramdown
 #highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
 
 sass:
   sass_dir: assets/css
@@ -24,7 +24,3 @@ sass:
 title:		           "Automate the pain"
 description:	       "Or how I learned to accept the risk."
 author:              "trevor"
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
