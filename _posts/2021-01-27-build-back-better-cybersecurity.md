@@ -31,9 +31,9 @@ We must recognize the impact of expected performance acquisitions by accepting t
 
 To measure the degree of acceptable risk or uncertainty with the supply chain is to first incorporate the organization’s risk tolerance baseline into the Supply Chain Risk Management (SCRM) processes. The processes should include the organization’s existing policies, or new policies where there are none, that determine the threats, assumptions, constraints, priorities, or trade-offs when making investment and operational decisions.
 
-* Identity a cross-functional team that can work across the GSA to incorporate and communicate risk tolerance throughout the organization’s decision-making activities to the Risk Executive Function (REF).
+* Identify a cross-functional team that can work across the GSA to incorporate and communicate risk tolerance throughout the organization’s decision-making activities to the Risk Executive Function (REF).
 * Collect inputs from the organization, mission/business processes, and systems to better frame, assess, respond, reduce, and monitor risk.
-* Incorporate supply chain risks, including threat agents, threat and vulnerability considerations, and agency constraints, into purchasing decisions of supplier goods and services.
+* Incorporate supply chain risks, including threat agents, threat and vulnerability considerations, and agency constraints, into purchase decisions of supplier goods and services.
 
 ### Empower Cybersecurity Workforce With Education and Training
 
