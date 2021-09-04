@@ -22,3 +22,6 @@ gem "github-pages"
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
+
+# rack
+gem 'rack', '~> 1.6', '>= 1.6.4'
