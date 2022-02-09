@@ -4,6 +4,9 @@ title: Speaking Engagements
 permalinks: /talks/
 ---
 
+# 2021
+[10-12-2021 Compliance is Regulatory: Protecting The Business And Helping Yourself](assets/slides/compliance_is_regulatory.pdf)<br />
+
 # 2020
 [01-21-2020 The Role of Compliance in the Federal Gov. - How Compliance Works - Trevor Bryant - SCW #14](https://www.youtube.com/watch?v=Wz43wZFoFAo) Part One<br />
 [01-21-2020 The Role of Compliance in the Federal Gov. - How Security Works - Trevor Bryant - SCW #14](https://www.youtube.com/watch?v=qSz3Ek8KxFI) Part Two<br />
